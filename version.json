@@ -1,5 +1,5 @@
 {
-    "version": "2.1.0",
-    "changelog": "Initial release",
+    "version": "2.1.1",
+    "changelog": "Fixed taxi meter not resetting between rides, fixed fare stacking across NPC missions, fixed missing fare amount in flee notification",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
